@@ -1,5 +1,5 @@
-# Mars Rover Kata - Java
+# Java Code Review
 
-This repository is a Java solution to the [Mars Rover Kata](https://katalyst.codurance.com/mars-rover) exercise.
+A series of exercises to build up skills in reviewing and improving existing Java code.
 
-The kata is a good exercise for defining objects (object oriented design) alongside taking a test driven approach.
+Head on over to [Exercise 1](./docs/exercise001.md) to get started
