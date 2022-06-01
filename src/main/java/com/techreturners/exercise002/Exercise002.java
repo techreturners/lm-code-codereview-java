@@ -7,8 +7,10 @@ public class Exercise002 {
 
         String drummer = new String("ringo");
 
-        FindName beatle = new FindName();
-        beatle.checkForDrummer(drummer);
+        Beatles beatles = new Beatles();
+        beatles.checkForDrummer(drummer);
+
+        beatles.averageNumberOnes();
 
         System.out.println("Exercise Two ended");
     }

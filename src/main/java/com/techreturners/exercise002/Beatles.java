@@ -1,6 +1,6 @@
 package com.techreturners.exercise002;
 
-public class FindName {
+public class Beatles {
     String [] names = {"JOHN", "PAUL", "GEORGE", "RINGO"};
 
     public void checkForDrummer(String name) {
@@ -9,5 +9,11 @@ public class FindName {
                 System.out.println("Drummer found: " + name);
             }
         }
+    }
+
+    public void averageNumberOnes(){
+        double yearsActive = 8;
+        double average = 20 / yearsActive;
+        System.out.println("The beatles had an average of " + average + " No.1 records per year during their time together");
     }
 }
