@@ -36,11 +36,9 @@ public class TextManipulator {
         System.out.println(getText());
     }
     public void printOutEachWordOfText() {
-        System.out.println(Arrays.toString(getText().split(" ")));
     }
 
     public void printRangeOfCharacters(int startingIndex, int endIndex) {
-        System.out.println(getText().substring(startingIndex, endIndex));
     }
 }
 

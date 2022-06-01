@@ -6,8 +6,6 @@ public class Exercise004 {
 
         System.out.println("Exercise four started");
 
-        TextManipulator textManipulator = new TextManipulator("Yesterday all my troubles seemed so far away");
-
         System.out.println("Exercise four ended");
 
     }
