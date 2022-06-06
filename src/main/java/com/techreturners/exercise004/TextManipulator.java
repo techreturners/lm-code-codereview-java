@@ -36,9 +36,11 @@ public class TextManipulator {
         System.out.println(getText());
     }
     public void printOutEachWordOfText() {
+
     }
 
     public void printRangeOfCharacters(int startingIndex, int endIndex) {
+
     }
 }
 
