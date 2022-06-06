@@ -7,6 +7,8 @@ public class Exercise005 {
 
         Guitar stratocaster = new Guitar("Fender", "Stratocaster", 11);
 
+        // guitar with above attributes plus colour and left-handed option
+
         System.out.println("Exercise five ended");
 
     }
