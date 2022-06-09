@@ -1,7 +1,5 @@
 package com.techreturners.exercise004;
 
-import java.util.Arrays;
-
 public class TextManipulator {
 
     private String text;
@@ -37,9 +35,12 @@ public class TextManipulator {
     }
     public void printOutEachWordOfText() {
 
+        // your code goes here
     }
 
     public void printRangeOfCharacters(int startingIndex, int endIndex) {
+
+        // your code goes here
 
     }
 }
